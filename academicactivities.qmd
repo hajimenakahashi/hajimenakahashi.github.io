@@ -666,6 +666,26 @@ December 2 -- 4, 2022, *Speaker*
 
 <div class="activity-title">
 
+**Hodge Theory**
+
+</div>
+
+<div class="activity-info">
+
+2024 Spring, *Speaker*
+
+
+</div>
+
+</div>
+
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
 **Toric Varieties**
 
 </div>
