@@ -1,0 +1,80 @@
+body {
+  font-family: "Segoe UI", "Yu Gothic", sans-serif;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, "Times New Roman", "Yu Mincho", serif;
+}
+
+.navbar{
+    font-size:17px;
+}
+
+img{
+    border-radius:10px;
+}
+
+
+/* ===== Navbar ===== */
+.navbar {
+    background-color: #2f5d50 !important;
+    border-bottom: 2px solid #24473d;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: white !important;
+}
+
+.navbar .nav-link:hover {
+    color: #d8efe6 !important;
+}
+
+/* ===== Table of Contents ===== */
+#TOC {
+    background-color: #f3f8f5;
+    border-left: 4px solid #2f5d50;
+    padding: 1em;
+    border-radius: 6px;
+}
+
+#TOC .nav-link.active {
+    color: #2f5d50;
+    font-weight: bold;
+}
+
+#TOC .nav-link:hover {
+    color: #3f7a68;
+}
+
+
+/* Home page watermark */
+.home-watermark {
+    position: fixed;
+    right: 4vw;
+    bottom: -1vh;
+    width: 400px; /*ここが大きさ*/
+    opacity: 0.1; /* ここが濃さ */
+    pointer-events: none;
+    z-index: 10;
+}
+
+.home-watermark img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+}
+
+
+.activity {
+  margin-bottom: 0.15em;
+}
+
+.activity-info {
+  margin-left: 1.5em;
+  line-height: 1.15;
+  font-size: 0.95em;
+}

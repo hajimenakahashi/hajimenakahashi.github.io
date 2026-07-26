@@ -1,0 +1,35 @@
+{
+  "index.qmd": {
+    "index.html": "702414d5"
+  },
+  "contact.qmd": {
+    "contact.html": "90b92414"
+  },
+  "cv.qmd": {
+    "cv.html": "66af1f28"
+  },
+  "notes.qmd": {
+    "notes.html": "163b8a38"
+  },
+  "publications.qmd": {
+    "publications.html": "32344149"
+  },
+  "reserch.qmd": {
+    "reserch.html": "95679d16"
+  },
+  "talks.qmd": {
+    "talks.html": "c0cab54b"
+  },
+  "teaching.qmd": {
+    "teaching.html": "afc1d6de"
+  },
+  "research.qmd": {
+    "research.html": "1d8669bf"
+  },
+  "realan.qmd": {
+    "realan.html": "ff1915d1"
+  },
+  "academicactivities.qmd": {
+    "academicactivities.html": "0d636dba"
+  }
+}

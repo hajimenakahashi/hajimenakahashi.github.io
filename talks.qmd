@@ -1,0 +1,400 @@
+---
+title: "Talks"
+---
+
+
+## Invited Talks
+
+## Contributed Talks
+
+## Internal Seminar Talks & Reading Group Talks
+
+<!---------------------------------------->
+<div class="activity">
+
+**Compactified Jacobians of Singular Curves**
+
+<div class="activity-info">
+
+Group Meeting, National Taiwan University  
+Taipei, Taiwan, May 4, 2026 [Note](files/Compactified_Jacobians_of_Singular_Curves.pdf)
+
+</div>
+
+</div>
+
+<!---------------------------------------->
+
+<div class="activity">
+
+**Generalized Kummer Varieties and Beauville--Mukai System**
+
+<div class="activity-info">
+
+Group Meeting, National Taiwan University  
+Taipei, Taiwan, March 2, 2026 [Note](files/Generalized_Kummer_Varieties_and_Beauville--Mukai_System
+.pdf)
+
+</div>
+
+</div>
+
+
+<!-------------------------------------------->
+
+<div class="activity">
+
+**Surfaces with k=0**
+<div class="activity-info">
+
+Algebraic/complex surface reading group, National Taiwan University  
+Taipei, Taiwan, December 17, 2025 [Note](files/Surfaces_with_k=0.pdf) 
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+<div class="activity">
+
+**Fiber bundle and Fibration**
+<div class="activity-info">
+
+Algebraic/complex surface reading group, National Taiwan University  
+Taipei, Taiwan, December 3, 2025 [Note](files/Fiber_bundle_and_Fibration.pdf)
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+<div class="activity">
+
+**Twisted Sheaves and Twisted Fourier--Mukai**
+<div class="activity-info">
+
+Group Meeting, National Taiwan University  
+Taipei, Taiwan, November 17, 2025 [Note](files/Twisted_Sheaves_and_Twisted_Fourier–Mukai.pdf)
+
+</div>
+
+</div>
+
+<!-------------------------------------------->
+
+<div class="activity">
+
+**Lagrangian fibration**
+<div class="activity-info">
+
+Group Meeting, National Taiwan University  
+Taipei, Taiwan, October 13, 2025 [Note](files/Lagrangian_fibration.pdf) 
+
+</div>
+
+</div>
+
+
+<!-------------------------------------------->
+
+<div class="activity">
+
+**Applications of Bend and Break II**
+<div class="activity-info">
+
+Deformation Theory reading group, National Taiwan University  
+Taipei, Taiwan, May 21, 2025 [Note](files/Applications_of_Bend_and_Break_II.pdf) 
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+<div class="activity">
+
+**Applications of Bend and Break I**
+<div class="activity-info">
+
+Deformation Theory reading group, National Taiwan University  
+Taipei, Taiwan, May 14, 2025 [Note](files/Applications_of_Bend_and_Break_I.pdf) 
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+<div class="activity">
+
+**What does the Hilbert scheme tell us?**
+<div class="activity-info">
+
+Deformation Theory reading group, National Taiwan University  
+Taipei, Taiwan, March 19, 2025 [Note](files/What_does_the_Hilbert_scheme_tell_us.pdf)
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+<div class="activity">
+
+**Semistable reductions**
+<div class="activity-info">
+
+Workshop in Hodge Theory, Xitou  
+Nantou, Taiwan, August 22, 2024 [Note](files/Semistable_reductions.pdf) 
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+
+<div class="activity">
+
+**Hodge Structures and Polarisations**
+<div class="activity-info">
+
+Seminar in Hodge Theory, National Taiwan University  
+Taipei, Taiwan, July 15, 2024 [Note](files/Hodge_Structures_and_Polarisations.pdf)
+[Video](https://www.youtube.com/watch?v=sWd-vKDC3YM&feature=youtu.be)
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+
+
+<div class="activity">
+
+**Abelian Varieties and Theta Functions**
+<div class="activity-info">
+
+Group meeting, National Taiwan University  
+Taipei, Taiwan, June 3, 2024 [Note](files/Abelian_Varieties_and_Theta_Functions.pdf) 
+[Video](https://www.youtube.com/watch?v=xfgYU3rEYZo)
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+
+<div class="activity">
+
+**Theorem of cube and square**
+<div class="activity-info">
+
+Group meeting, National Taiwan University  
+Taipei, Taiwan, April 22, 2024 [Note](files/Theorem_of_cube_and_square.pdf) 
+[Video](https://www.youtube.com/watch?v=cnDvl9RKLR4&feature=youtu.be)
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+<div class="activity">
+
+**See--Saw Principle and Abelian Varieties**
+<div class="activity-info">
+
+Group meeting, National Taiwan University  
+Taipei, Taiwan, March 18, 2024 [Note](files/See--Saw_Principle_and_Abelian_Varieties.pdf)
+[Video](https://www.youtube.com/watch?v=tlR1BfQ-8xM&feature=youtu.be)
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+<div class="activity">
+
+**The index of a Severi--Brauer variety**
+<div class="activity-info">
+
+Mini--Arbeitsgemeinschaft on Severi--Brauer varieties, Hualien  
+Hualien, Taiwan, January 28, 2024 [Note](files/The_index_of_a_Severi--Brauer_variety.pdf) 
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+<div class="activity">
+
+**Toric GIT**
+<div class="activity-info">
+
+Toric Varieties reading group, National Taiwan University  
+Taipei, Taiwan, December 27, 2023 [Note](files/Toric_GIT.pdf)
+[Video](https://www.youtube.com/watch?v=wSM42DU2kCY&feature=youtu.be)
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+<div class="activity">
+
+**Complete and Proper**
+<div class="activity-info">
+
+Toric Varieties reading group, National Taiwan University  
+Taipei, Taiwan, October 30, 2023 [Note](files/Complete and Proper.pdf)
+[Video](https://www.youtube.com/watch?v=0zxS9kjAHkk&feature=youtu.be)
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+<div class="activity">
+
+**Even dimensional quadrics**
+<div class="activity-info">
+
+Workshop on Derived Categories, Xitou  
+Nantou, Taiwan, June 21, 2023 
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+
+
+<div class="activity">
+
+**Full exceptional collections**
+<div class="activity-info">
+
+Derived categories reading group, National Taiwan University  
+Taipei, Taiwan, May 25, 2023 [Video](https://www.youtube.com/watch?v=_NCriV6PGU4&feature=youtu.be)
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+
+
+
+
+<div class="activity">
+
+**Negativity Lemma**
+<div class="activity-info">
+
+Minimal Model Program reading group, National Taiwan University  
+Taipei, Taiwan, March 2, 2023 [Video](https://www.youtube.com/watch?v=xC_zQJX9wR0)
+
+</div>
+
+</div>
+
+
+
+
+
+<!--------------------------------------------->
+
+
+
+<div class="activity">
+
+**Stable vector bundles over curves**
+<div class="activity-info">
+
+Moduli spaces and derived categories reading group, National Taiwan University  
+Taipei, Taiwan, January 5, 2023 [Video](https://www.youtube.com/watch?v=2myg0td8mmw&feature=youtu.be)
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+
+
+<div class="activity">
+
+**Rank 2 vector bundle**
+<div class="activity-info">
+
+Moduli spaces and derived categories reading group, National Taiwan University  
+Taipei, Taiwan, December 8, 2022 [Video](https://www.youtube.com/watch?v=MtiOwzEkzIM&feature=youtu.be)
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+
+
+<div class="activity">
+
+**Flops and derived categories**
+<div class="activity-info">
+
+Younger Generation in Moduli Spaces and Related Topics, National Cheng--Kung University  
+Tainan, Taiwan, December 4, 2022
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+<div class="activity">
+
+**Mumford's numerical criterion II**
+<div class="activity-info">
+
+Moduli spaces and derived categories reading group, National Taiwan University  
+Taipei, Taiwan, October 13, 2022 [Video](https://www.youtube.com/watch?v=GR0vHlUapDc&feature=youtu.be)
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+<div class="activity">
+
+**Mumford's numerical criterion I**
+<div class="activity-info">
+
+Moduli spaces and derived categories reading group, National Taiwan University  
+Taipei, Taiwan, October 6, 2022 [Video](https://www.youtube.com/watch?v=WVKCgmr-Qzk&t=1092s)
+
+</div>
+
+</div>
+
+<!--------------------------------------------->
+
+

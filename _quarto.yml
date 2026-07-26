@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hajime Nakahashi"
+  favicon: images/favicon.png
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: academicactivities.qmd
+        text: Academic Activities
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+      
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    
+

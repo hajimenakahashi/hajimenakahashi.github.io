@@ -1,0 +1,810 @@
+---
+title: "Academic Activities"
+---
+
+
+## Conferences & Workshops
+
+<details open>
+<summary><strong>2026</strong></summary>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Mini--Workshop: Algebraic Geometry in Xitou**
+
+</div>
+
+<div class="activity-info">
+
+Xitou, Nantou, Taiwan<br>
+July 19 -- 21, 2026, *Participant*<br>
+<a href="https://sites.google.com/view/mini-workshopalgebraicgeometry" target="_blank"> Website</a>
+
+</div>
+
+</div>
+
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Fano Varieties in Obihiro**
+
+</div>
+
+<div class="activity-info">
+
+Obihiro, Hokkaido, Japan<br>
+June 22 -- 26, 2026, *Participant*<br>
+<a href="https://webhomes.maths.ed.ac.uk/cheltsov/obihiro/index.html"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**10th Pacific Rim Conference on Mathematics**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+June 15 -- 19, 2026, *Participant*<br>
+<a href="https://sites.google.com/view/2026pacificrim/home"> Website</a>
+
+</div>
+
+</div>
+
+
+
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Workshop on Hyperbolic Geometry**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+June 4, 2026, *Participant*<br>
+<a href="https://sites.google.com/view/workshop-hyperbolic-geometry/"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**NCTS minicourses -- Topics on Derived Categories of Coherent Sheaves**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+April 22, 2026, *Participant*
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**2026 Higher Dimensional Algebraic Geometry**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+April 13 -- 17, 2026, *Participant*<br>
+<a href="https://sites.google.com/ncts.ntu.edu.tw/2026hdag/2026-hdag-conference"> Website</a>
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**2026 Higher Dimensional Algebraic Geometry--minicourses**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+April 7 -- 10, 2026, *Participant*<br>
+<a href="https://sites.google.com/ncts.ntu.edu.tw/2026hdag-minicourses"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Meet with Prof. Chenyang Xu**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+April 2, 2026, *Participant*<br>
+<a href="https://ncts.ntu.edu.tw/events_2_detail.php?nid=552"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Deformations and Birational Geometry of Algebraic Varieties**
+
+</div>
+
+<div class="activity-info">
+
+Kyoto University, Kyoto, Japan<br>
+January 19 -- 23, 2026, *Participant (Online)*<br>
+<a href="https://nagai-y.w.waseda.jp/deformations-and-birational-geometry-of-algebraic-varieties/"> Website</a>
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Tour de Formosa -- Algebraic Geometry along Taiwan's east coast**
+
+</div>
+
+<div class="activity-info">
+
+Taiwan's east coast, Taiwan<br>
+January 12 -- 16, 2026, *Cycling participant*<br>
+<a href="https://sites.google.com/view/tour-de-formosa/home"> Website</a>
+
+</div>
+
+</div>
+
+</details>
+
+<details open>
+<summary><strong>2025</strong></summary>
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Chen-Jung Hsu Lecturers 2025**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+December 17 -- 19, 2025, *Participant*<br>
+<a href="https://idv.sinica.edu.tw/mathas/HSU/page/2025/index.html"> Website</a>
+
+</div>
+
+</div>
+
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**NCTS Minicourse -- On Gizatullin's problem**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+November 24, 26, December 1, 2025, *Participant*<br>
+<a href="https://ncts.ntu.edu.tw/events_3_detail.php?nid=384"> Website</a>
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**2025 Algebraic Geometry in East Asia**
+
+</div>
+
+<div class="activity-info">
+
+National Cheng Kung University, Tainan, Taiwan<br>
+November 10 -- 14, 2025, *Participant*<br>
+<a href="https://sites.google.com/ncts.ntu.edu.tw/2025-algebraic-geometry-in/2025-agea"> Website</a>
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**NCTS Minicourse -- on Moduli Spaces: Wall--crossing for moduli spaces of higher dimensional varieties and applications**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+September 8, 12, 15, 2025, *Participant*<br>
+<a href="https://ncts.ntu.edu.tw/events_3_detail.php?nid=379"> Website</a>
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**2025 Summer Research Institute in Algebraic Geometry**
+
+</div>
+
+<div class="activity-info">
+
+Colorado State University, Colorado, USA<br>
+July 14 -- August 1, 2025, *Participant*<br>
+<a href="https://sites.google.com/view/2025summerinstitute/home"> Website</a>
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**NCTS Minicourse -- on Deformation Theory**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+May 2, 9, 2025, *Participant*<br>
+<a href="https://ncts.ntu.edu.tw/events_3_detail.php?nid=369"> Website</a>
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Younger Generation of Algebraic Geometry 2025**
+
+</div>
+
+<div class="activity-info">
+
+Penghu, Taiwan<br>
+April 17 -- 19, 2025, *Participant*
+
+</div>
+
+</div>
+
+</details>
+
+<details open>
+<summary><strong>2024</strong></summary>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Algebraic geometry in Taipei 2024**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+December 2 -- 6, 2024, *Participant*<br>
+<a href="https://sites.google.com/g.ntu.edu.tw/ag-taipei"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Chen-Jung Hsu Lecturers 2024**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+December 2 -- 4, 2024, *Participant*<br>
+<a href="https://idv.sinica.edu.tw/mathas/HSU/page/2024/index.html"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Mini-Workshop: Young Perspectives in Algebraic Geometry**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+November 25 -- 26, 2024, *Participant*<br>
+<a href="https://sites.google.com/view/mini-workshop-young-perspectiv/%E9%A6%96%E9%A0%81"> Website</a>
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Workshop in Hodge Theory**
+
+</div>
+
+<div class="activity-info">
+
+Xitou, Nantou, Taiwan<br>
+August 21 -- 23, 2024, *Speaker*
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**NCTS Minicourse -- on Non-Commutative Geometry**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+April 17, 24, 29, 2024, *Participant*<br>
+<a href="https://ncts.ntu.edu.tw/events_3_detail.php?nid=334"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Mini-Arbeitsgemeinschaft 2024: Severi -- Brauer varieties**
+
+</div>
+
+<div class="activity-info">
+
+Hualien, Taiwan<br>
+January 26 -- 29, 2024, *Speaker*
+
+</div>
+
+</div>
+
+
+</details>
+
+<details open>
+<summary><strong>2023</strong></summary>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**NCTS -- Kyoto Mathematics Symposium**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+December 9, 2023, *Participant*<br>
+<a href="https://ncts.ntu.edu.tw/events_2_detail.php?nid=427"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Birational Geometry and Algebraic Dynamics**
+
+</div>
+
+<div class="activity-info">
+
+University of Tokyo, Tokyo, Japan<br>
+November 27 -- December 1, 2023, *Participant*<br>
+<a href="https://www.ms.u-tokyo.ac.jp/~stakagi/workshop/oguiso/index.html"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**2023 NCTS Mini-courses and Conference: Modern Perspectives on Birational Geometry**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+July 29 -- August 4, 2023, *Participant*<br>
+<a href="https://sites.google.com/g.ntu.edu.tw/mpbg2023/"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Workshop on Derived Categories**
+
+</div>
+
+<div class="activity-info">
+
+Xitou, Nantou, Taiwan<br>
+June 20 -- 21, 2025, *Speaker*
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Mini-Courses on Computational Algebraic Geometry**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+May 24, 31, June 7, 14 2023, *Participant*
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**2023 NCTS Higher Dimensional Algebraic Geometry, Mini-courses and Workshop**
+
+</div>
+
+<div class="activity-info">
+
+National Taiwan University, Taipei, Taiwan<br>
+March 13 -- 24, 2023, *Participant*<br>
+<a href="https://sites.google.com/g.ntu.edu.tw/2023-hdag"> Website</a>
+
+</div>
+
+</div>
+
+</details>
+
+<details open>
+<summary><strong>2022</strong></summary>
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Workshop -- Younger Generation in Moduli Spaces and Related Topics**
+
+</div>
+
+<div class="activity-info">
+
+National Cheng Kung University, Tainan, Taiwan<br>
+December 2 -- 4, 2022, *Speaker*
+
+</div>
+
+</div>
+
+
+
+
+</details>
+
+
+
+## Reading Groups & Others
+
+<details open>
+<summary><strong>Reading Groups</strong></summary>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Algebraic/Complex surfaces**
+
+</div>
+
+<div class="activity-info">
+
+2025 Fall, *Speaker*
+
+
+</div>
+
+</div>
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Deformation Theory**
+
+</div>
+
+<div class="activity-info">
+
+2025 Spring, *Speaker*
+
+
+</div>
+
+</div>
+
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Toric Varieties**
+
+</div>
+
+<div class="activity-info">
+
+2023 Fall, *Speaker*
+
+
+</div>
+
+</div>
+
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Derived Categories**
+
+</div>
+
+<div class="activity-info">
+
+2023 Spring, *Speaker*
+
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Introduction to MMP**
+
+</div>
+
+<div class="activity-info">
+
+2023 Spring, *Speaker*
+
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Moduli spaces and derived categories**
+
+</div>
+
+<div class="activity-info">
+
+2022 Fall, *Speaker*
+
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Hodge Structures and D modules**
+
+</div>
+
+<div class="activity-info">
+
+2022 Fall, *Participant*
+
+
+</div>
+
+</div>
+
+
+
+
+</details>
+
+
+
+<details open>
+<summary><strong>Others</strong></summary>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**NCTS Seminar in Algebraic Geometry**
+
+</div>
+
+<div class="activity-info">
+
+<a href="https://ncts.ntu.edu.tw/events_seminars_detail.php?gid=371"> Website</a>
+
+
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Group Meeting**
+
+</div>
+
+<div class="activity-info">
+
+<a href="https://sites.google.com/view/laboratoryofbirationalgeometry/%E9%A6%96%E9%A0%81"> Website</a>
+
+
+
+</div>
+
+</div>
+
+
+
+
+</details>
