@@ -1,0 +1,6 @@
+@echo off
+quarto render
+git add .
+git commit -m "Update website"
+git push
+pause

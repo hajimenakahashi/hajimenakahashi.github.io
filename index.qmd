@@ -106,7 +106,7 @@ November 1, 2026 -- February 28, 2027 <br>
 <hr>
 
 <div style="text-align: right; font-size: 0.75em; color: gray;">
-Last updated: July 25, 2026
+Last updated: July 26, 2026
 </div>  <!-- 日付を変更 -->
 
 
