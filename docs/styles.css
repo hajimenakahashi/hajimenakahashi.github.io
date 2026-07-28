@@ -29,7 +29,9 @@ img{
 }
 
 .navbar .nav-link:hover {
-    color: #d8efe6 !important;
+    color: #8bc9b2 !important;
+    text-decoration: underline;
+    text-underline-offset: 4px;
 }
 
 
@@ -43,13 +45,17 @@ img{
     border-radius: 6px;
 }
 
+#toc-title {
+    display: none !important;
+}
+
 #TOC .nav-link.active {
-    color: #2f5d50;
+    color: #2f5d50 !important;
     font-weight: bold;
 }
 
 #TOC .nav-link:hover {
-    color: #3f7a68;
+    color: #8bc9b2 !important;
 }
 
 
