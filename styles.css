@@ -32,6 +32,10 @@ img{
     color: #d8efe6 !important;
 }
 
+.navbar-toggler {
+    border-color: rgba(255,255,255,0.8);
+}
+
 .navbar-toggler-icon {
     filter: brightness(0) invert(1);
 }
