@@ -32,6 +32,10 @@ img{
     color: #d8efe6 !important;
 }
 
+.navbar-toggler-icon {
+    filter: brightness(0) invert(1);
+}
+
 /* ===== Table of Contents ===== */
 #TOC {
     background-color: #f3f8f5;
