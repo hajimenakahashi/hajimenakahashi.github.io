@@ -56,6 +56,8 @@ img{
 
 #TOC .nav-link:hover {
     color: #8bc9b2 !important;
+    text-decoration: underline;
+    text-underline-offset: 4px;
 }
 
 
