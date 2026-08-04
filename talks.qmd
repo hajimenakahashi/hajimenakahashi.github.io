@@ -32,8 +32,7 @@ Taipei, Taiwan, May 4, 2026 [Note](files/Compactified_Jacobians_of_Singular_Curv
 <div class="activity-info">
 
 Group Meeting, National Taiwan University  
-Taipei, Taiwan, March 2, 2026 [Note](files/Generalized_Kummer_Varieties_and_Beauville_Mukai_System
-.pdf){target="_blank"}
+Taipei, Taiwan, March 2, 2026 [Note](files/Generalized_Kummer_Varieties_and_Beauville_Mukai_System.pdf){target="_blank"}
 
 </div>
 
