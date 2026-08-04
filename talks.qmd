@@ -17,7 +17,7 @@ title: "Talks"
 <div class="activity-info">
 
 Group Meeting, National Taiwan University  
-Taipei, Taiwan, May 4, 2026 [Note](files/Compactified_Jacobians_of_Singular_Curves.pdf)
+Taipei, Taiwan, May 4, 2026 [Note](files/Compactified_Jacobians_of_Singular_Curves.pdf){target="_blank"}
 
 </div>
 
@@ -33,7 +33,7 @@ Taipei, Taiwan, May 4, 2026 [Note](files/Compactified_Jacobians_of_Singular_Curv
 
 Group Meeting, National Taiwan University  
 Taipei, Taiwan, March 2, 2026 [Note](files/Generalized_Kummer_Varieties_and_Beauville--Mukai_System
-.pdf)
+.pdf){target="_blank"}
 
 </div>
 
@@ -48,7 +48,7 @@ Taipei, Taiwan, March 2, 2026 [Note](files/Generalized_Kummer_Varieties_and_Beau
 <div class="activity-info">
 
 Algebraic/complex surface reading group, National Taiwan University  
-Taipei, Taiwan, December 17, 2025 [Note](files/Surfaces_with_k=0.pdf) 
+Taipei, Taiwan, December 17, 2025 [Note](files/Surfaces_with_k=0.pdf){target="_blank"} 
 
 </div>
 
@@ -63,7 +63,7 @@ Taipei, Taiwan, December 17, 2025 [Note](files/Surfaces_with_k=0.pdf)
 <div class="activity-info">
 
 Algebraic/complex surface reading group, National Taiwan University  
-Taipei, Taiwan, December 3, 2025 [Note](files/Fiber_bundle_and_Fibration.pdf)
+Taipei, Taiwan, December 3, 2025 [Note](files/Fiber_bundle_and_Fibration.pdf){target="_blank"}
 
 </div>
 
@@ -78,7 +78,7 @@ Taipei, Taiwan, December 3, 2025 [Note](files/Fiber_bundle_and_Fibration.pdf)
 <div class="activity-info">
 
 Group Meeting, National Taiwan University  
-Taipei, Taiwan, November 17, 2025 [Note](files/Twisted_Sheaves_and_Twisted_Fourier–Mukai.pdf)
+Taipei, Taiwan, November 17, 2025 [Note](files/Twisted_Sheaves_and_Twisted_Fourier–Mukai.pdf){target="_blank"}
 
 </div>
 
@@ -92,7 +92,7 @@ Taipei, Taiwan, November 17, 2025 [Note](files/Twisted_Sheaves_and_Twisted_Fouri
 <div class="activity-info">
 
 Group Meeting, National Taiwan University  
-Taipei, Taiwan, October 13, 2025 [Note](files/Lagrangian_fibration.pdf) 
+Taipei, Taiwan, October 13, 2025 [Note](files/Lagrangian_fibration.pdf){target="_blank"} 
 
 </div>
 
@@ -107,7 +107,7 @@ Taipei, Taiwan, October 13, 2025 [Note](files/Lagrangian_fibration.pdf)
 <div class="activity-info">
 
 Deformation Theory reading group, National Taiwan University  
-Taipei, Taiwan, May 21, 2025 [Note](files/Applications_of_Bend_and_Break_II.pdf) 
+Taipei, Taiwan, May 21, 2025 [Note](files/Applications_of_Bend_and_Break_II.pdf){target="_blank"} 
 
 </div>
 
@@ -122,7 +122,7 @@ Taipei, Taiwan, May 21, 2025 [Note](files/Applications_of_Bend_and_Break_II.pdf)
 <div class="activity-info">
 
 Deformation Theory reading group, National Taiwan University  
-Taipei, Taiwan, May 14, 2025 [Note](files/Applications_of_Bend_and_Break_I.pdf) 
+Taipei, Taiwan, May 14, 2025 [Note](files/Applications_of_Bend_and_Break_I.pdf){target="_blank"} 
 
 </div>
 
@@ -137,7 +137,7 @@ Taipei, Taiwan, May 14, 2025 [Note](files/Applications_of_Bend_and_Break_I.pdf)
 <div class="activity-info">
 
 Deformation Theory reading group, National Taiwan University  
-Taipei, Taiwan, March 19, 2025 [Note](files/What_does_the_Hilbert_scheme_tell_us.pdf)
+Taipei, Taiwan, March 19, 2025 [Note](files/What_does_the_Hilbert_scheme_tell_us.pdf){target="_blank"}
 
 </div>
 
@@ -152,7 +152,7 @@ Taipei, Taiwan, March 19, 2025 [Note](files/What_does_the_Hilbert_scheme_tell_us
 <div class="activity-info">
 
 Workshop in Hodge Theory, Xitou  
-Nantou, Taiwan, August 22, 2024 [Note](files/Semistable_reductions.pdf) 
+Nantou, Taiwan, August 22, 2024 [Note](files/Semistable_reductions.pdf){target="_blank"} 
 
 </div>
 
@@ -168,7 +168,7 @@ Nantou, Taiwan, August 22, 2024 [Note](files/Semistable_reductions.pdf)
 <div class="activity-info">
 
 Seminar in Hodge Theory, National Taiwan University  
-Taipei, Taiwan, July 15, 2024 [Note](files/Hodge_Structures_and_Polarisations.pdf)
+Taipei, Taiwan, July 15, 2024 [Note](files/Hodge_Structures_and_Polarisations.pdf){target="_blank"}
 [Video](https://www.youtube.com/watch?v=sWd-vKDC3YM&feature=youtu.be)
 </div>
 
@@ -185,7 +185,7 @@ Taipei, Taiwan, July 15, 2024 [Note](files/Hodge_Structures_and_Polarisations.pd
 <div class="activity-info">
 
 Group meeting, National Taiwan University  
-Taipei, Taiwan, June 3, 2024 [Note](files/Abelian_Varieties_and_Theta_Functions.pdf) 
+Taipei, Taiwan, June 3, 2024 [Note](files/Abelian_Varieties_and_Theta_Functions.pdf){target="_blank"} 
 [Video](https://www.youtube.com/watch?v=xfgYU3rEYZo)
 </div>
 
@@ -201,7 +201,7 @@ Taipei, Taiwan, June 3, 2024 [Note](files/Abelian_Varieties_and_Theta_Functions.
 <div class="activity-info">
 
 Group meeting, National Taiwan University  
-Taipei, Taiwan, April 22, 2024 [Note](files/Theorem_of_cube_and_square.pdf) 
+Taipei, Taiwan, April 22, 2024 [Note](files/Theorem_of_cube_and_square.pdf){target="_blank"} 
 [Video](https://www.youtube.com/watch?v=cnDvl9RKLR4&feature=youtu.be)
 </div>
 
@@ -215,7 +215,7 @@ Taipei, Taiwan, April 22, 2024 [Note](files/Theorem_of_cube_and_square.pdf)
 <div class="activity-info">
 
 Group meeting, National Taiwan University  
-Taipei, Taiwan, March 18, 2024 [Note](files/See--Saw_Principle_and_Abelian_Varieties.pdf)
+Taipei, Taiwan, March 18, 2024 [Note](files/See--Saw_Principle_and_Abelian_Varieties.pdf){target="_blank"}
 [Video](https://www.youtube.com/watch?v=tlR1BfQ-8xM&feature=youtu.be)
 </div>
 
@@ -229,7 +229,7 @@ Taipei, Taiwan, March 18, 2024 [Note](files/See--Saw_Principle_and_Abelian_Varie
 <div class="activity-info">
 
 Mini--Arbeitsgemeinschaft on Severi--Brauer varieties, Hualien  
-Hualien, Taiwan, January 28, 2024 [Note](files/The_index_of_a_Severi--Brauer_variety.pdf) 
+Hualien, Taiwan, January 28, 2024 [Note](files/The_index_of_a_Severi--Brauer_variety.pdf){target="_blank"} 
 
 </div>
 
@@ -243,7 +243,7 @@ Hualien, Taiwan, January 28, 2024 [Note](files/The_index_of_a_Severi--Brauer_var
 <div class="activity-info">
 
 Toric Varieties reading group, National Taiwan University  
-Taipei, Taiwan, December 27, 2023 [Note](files/Toric_GIT.pdf)
+Taipei, Taiwan, December 27, 2023 [Note](files/Toric_GIT.pdf){target="_blank"}
 [Video](https://www.youtube.com/watch?v=wSM42DU2kCY&feature=youtu.be)
 </div>
 
@@ -257,7 +257,7 @@ Taipei, Taiwan, December 27, 2023 [Note](files/Toric_GIT.pdf)
 <div class="activity-info">
 
 Toric Varieties reading group, National Taiwan University  
-Taipei, Taiwan, October 30, 2023 [Note](files/Complete and Proper.pdf)
+Taipei, Taiwan, October 30, 2023 [Note](files/Complete and Proper.pdf){target="_blank"}
 [Video](https://www.youtube.com/watch?v=0zxS9kjAHkk&feature=youtu.be)
 </div>
 
