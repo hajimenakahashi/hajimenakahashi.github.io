@@ -2,4 +2,4 @@
 title: "Curriculum Vitae"
 ---
 
-A PDF version of my CV is available [here](files/CV.pdf).
+A PDF version of my CV is available [here](files/CV.pdf){target="_blank"}.
