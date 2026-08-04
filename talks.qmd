@@ -215,7 +215,7 @@ Taipei, Taiwan, April 22, 2024 [Note](files/Theorem_of_cube_and_square.pdf){targ
 <div class="activity-info">
 
 Group meeting, National Taiwan University  
-Taipei, Taiwan, March 18, 2024 [Note](files/See--Saw_Principle_and_Abelian_Varieties.pdf){target="_blank"}
+Taipei, Taiwan, March 18, 2024 [Note](files/See–Saw_Principle_and_Abelian_Varieties.pdf){target="_blank"}
 [Video](https://www.youtube.com/watch?v=tlR1BfQ-8xM&feature=youtu.be)
 </div>
 
@@ -229,7 +229,7 @@ Taipei, Taiwan, March 18, 2024 [Note](files/See--Saw_Principle_and_Abelian_Varie
 <div class="activity-info">
 
 Mini--Arbeitsgemeinschaft on Severi--Brauer varieties, Hualien  
-Hualien, Taiwan, January 28, 2024 [Note](files/The_index_of_a_Severi--Brauer_variety.pdf){target="_blank"} 
+Hualien, Taiwan, January 28, 2024 [Note](files/The_index_of_a_Severi-Brauer_variety.pdf){target="_blank"} 
 
 </div>
 
