@@ -227,7 +227,7 @@ Taipei, Taiwan, March 18, 2024 [Note](files/See_Saw_Principle_and_Abelian_Variet
 **The index of a Severi--Brauer variety**
 <div class="activity-info">
 
-Mini--Arbeitsgemeinschaft on Severi_Brauer varieties, Hualien  
+Mini--Arbeitsgemeinschaft on Severi--Brauer varieties, Hualien  
 Hualien, Taiwan, January 28, 2024 [Note](files/The_index_of_a_Severi_Brauer_variety.pdf){target="_blank"} 
 
 </div>
