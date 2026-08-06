@@ -650,7 +650,7 @@ December 2 -- 4, 2022, *Speaker*
 
 <div class="activity-title">
 
-**Algebraic/Complex surfaces**
+**Algebraic/Complex Surfaces**
 
 </div>
 
@@ -766,7 +766,7 @@ December 2 -- 4, 2022, *Speaker*
 
 <div class="activity-title">
 
-**Moduli spaces and derived categories**
+**Moduli Spaces and Derived Categories**
 
 </div>
 
@@ -785,7 +785,7 @@ December 2 -- 4, 2022, *Speaker*
 
 <div class="activity-title">
 
-**Hodge Structures and D modules**
+**Hodge Structures and D Modules**
 
 </div>
 
