@@ -256,7 +256,7 @@ Taipei, Taiwan, December 27, 2023 [Note](files/Toric_GIT.pdf){target="_blank"}
 <div class="activity-info">
 
 Toric Varieties reading group, National Taiwan University  
-Taipei, Taiwan, October 30, 2023 [Note](files/Complete and Proper.pdf){target="_blank"}
+Taipei, Taiwan, October 30, 2023 [Note](files/Complete_and_Proper.pdf){target="_blank"}
 [Video](https://www.youtube.com/watch?v=0zxS9kjAHkk&feature=youtu.be)
 </div>
 
