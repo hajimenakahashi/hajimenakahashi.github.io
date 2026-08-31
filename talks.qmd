@@ -14,7 +14,7 @@ title: "Talks"
 </details>
 
 <details open>
-<summary><strong>Poster Presentation</strong></summary>
+<summary><strong>Poster Presentations</strong></summary>
 
 
 <!---------------------------------------->
