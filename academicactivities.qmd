@@ -8,6 +8,27 @@ title: "Academic Activities"
 <details open>
 <summary><strong>2026</strong></summary>
 
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Japanese-European Symposium on Symplectic Varieties and Moduli Spaces**
+
+</div>
+
+<div class="activity-info">
+
+Hokkaido University, Hokkaido, Japan<br>
+August 31 -- September 4, 2026, *Poster Presenter* <br>
+<a href="https://sites.unimi.it/jes/"> Website</a>
+
+</div>
+
+</div>
+
+
 <!------------------------------------------------------------------>
 <div class="activity">
 
