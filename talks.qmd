@@ -41,6 +41,22 @@ Hokkaido, Japan, August 31, 2026 [Poster](files/Singular_Fibers_of_Debarre_Syste
 <!---------------------------------------->
 <div class="activity">
 
+**From Cotangent Bundles to Lagrangian Fibrations**
+
+<div class="activity-info">
+
+Group Meeting, National Taiwan University  
+Taipei, Taiwan, Sep 7, 2026 [Note](files/From_Cotangent_Bundles_to_Lagrangian_Fibrations.pdf){target="_blank"}
+
+</div>
+
+</div>
+
+
+
+<!---------------------------------------->
+<div class="activity">
+
 **Compactified Jacobians of Singular Curves**
 
 <div class="activity-info">
