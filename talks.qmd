@@ -22,7 +22,7 @@ title: "Talks"
 
 <div class="activity-title">
 
-****
+**Singular Fibers and Duality for the (1,3)-Debarre System**
 </div>
 
 <div class="activity-info">
