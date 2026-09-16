@@ -17,6 +17,23 @@ title: "Talks"
 <summary><strong>Poster Presentations</strong></summary>
 
 
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+****
+</div>
+
+<div class="activity-info">
+
+Tübingen Summer School: Jacobians, Pryms and degenerations, University of Tübingen,
+Tübingen, Germany, September 15, 2026, [Poster](files/Singular_Fibers_of_(1,3)-Debarre_System.pdf)
+
+</div>
+
+</div>
+
 <!---------------------------------------->
 <div class="activity">
 

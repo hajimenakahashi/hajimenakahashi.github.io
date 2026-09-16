@@ -14,6 +14,26 @@ title: "Academic Activities"
 
 <div class="activity-title">
 
+**Tübingen Summer School: Jacobians, Pryms and degenerations**
+
+</div>
+
+<div class="activity-info">
+
+University of Tübingen, Tübingen, Germany<br>
+September 15 -- 18, 2026, *Poster Presenter* <br>
+<a href="https://sites.google.com/view/tuebingen26/home"> Website</a>
+
+</div>
+
+</div>
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
 **Japanese-European Symposium on Symplectic Varieties and Moduli Spaces**
 
 </div>
