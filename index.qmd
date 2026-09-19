@@ -43,24 +43,6 @@ Coming soon.
 
 
 
-<!------------------------------------------------------------------>
-<div class="activity">
-
-<div class="activity-title">
-
-**Tübingen Summer School: Jacobians, Pryms and degenerations**
-
-</div>
-
-<div class="activity-info">
-
-University of Tübingen, Tübingen, Germany<br>
-September 15 -- 18, 2026, *Poster Presenter* <br>
-<a href="https://sites.google.com/view/tuebingen26/home"> Website</a>
-
-</div>
-
-</div>
 
 <!------------------------------------------------------------------>
 <div class="activity">
@@ -89,7 +71,7 @@ November 1, 2026 -- February 28, 2027 <br>
 <hr>
 
 <div style="text-align: right; font-size: 0.75em; color: gray;">
-Last updated: September 16, 2026
+Last updated: September 19, 2026
 </div>  <!-- 日付を変更 -->
 
 
