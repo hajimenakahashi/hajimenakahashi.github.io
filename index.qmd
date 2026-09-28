@@ -109,6 +109,24 @@ January 18 -- 22, 2027 <br>
 </div>
 
 
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Algebraic Geometry in Beijing -- in honor of Professor Arnaud Beauville's 80th birthday**
+
+</div>
+
+<div class="activity-info">
+
+MCM, Beijing, China<br>
+April 12 -- 16, 2027 <br>
+<a href="http://www.mcm.ac.cn/events/programs/202605/t20260506_1158386.html"> Website</a>
+
+</div>
+
+</div>
 
 
 
