@@ -63,6 +63,60 @@ November 1, 2026 -- February 28, 2027 <br>
 </div>
 
 
+<details>
+<summary><strong>Events of Interest</strong></summary>
+
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Hodge Theory and Birational Geometry**
+
+</div>
+
+<div class="activity-info">
+
+ICMS, Sofia, Bulgaria<br>
+December 7 -- 11, 2026 <br>
+<a href="https://leonardofcavenaghi.github.io/hodge-birational-2026"> Website</a>
+
+</div>
+
+</div>
+
+
+
+<!------------------------------------------------------------------>
+<div class="activity">
+
+<div class="activity-title">
+
+**Cohomology, cycles, periods**
+
+</div>
+
+<div class="activity-info">
+
+CIRM, Marseille, France<br>
+January 18 -- 22, 2027 <br>
+<a href="https://www.math.ens.psl.eu/~benoist/conferenceCYCLADES.html"> Website</a>
+
+</div>
+
+</div>
+
+
+
+
+
+
+</details>
+
+
+
 
 
 
@@ -71,7 +125,7 @@ November 1, 2026 -- February 28, 2027 <br>
 <hr>
 
 <div style="text-align: right; font-size: 0.75em; color: gray;">
-Last updated: September 19, 2026
+Last updated: September 28, 2026
 </div>  <!-- 日付を変更 -->
 
 
