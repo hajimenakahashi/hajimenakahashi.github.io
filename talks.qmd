@@ -56,6 +56,21 @@ Hokkaido, Japan, August 31, 2026 [Poster](files/Singular_Fibers_of_Debarre_Syste
 ## Internal Seminar Talks & Reading Group Talks
 
 
+<!---------------------------------------->
+<div class="activity">
+
+**Cones and Symmetries of K3 Surfaces**
+
+<div class="activity-info">
+
+K3 Surfaces reading group, National Taiwan University  
+Taipei, Taiwan, November 10, 2026 [Note](files/Cones_and_Symmetries_of_K3_Surfaces.pdf){target="_blank"}, [Supplementary Materials](files/Exercises_Cones_of_K3_Surfaces.pdf){target="_blank"}
+
+</div>
+
+</div>
+
+
 
 <!---------------------------------------->
 <div class="activity">
