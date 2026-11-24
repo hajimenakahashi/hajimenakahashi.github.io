@@ -67,7 +67,7 @@ img{
     right: 4vw;
     bottom: -1vh;
     width: 400px; /*ここが大きさ*/
-    opacity: 0.1; /* ここが濃さ */
+    opacity: 0.2; /* ここが濃さ */
     pointer-events: none;
     z-index: 10;
 }
